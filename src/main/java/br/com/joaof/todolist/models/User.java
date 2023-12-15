@@ -1,7 +1,7 @@
 package br.com.joaof.todolist.models;
 
 import java.time.LocalDateTime;
-import java.util.UUID;
+import java.util.UUID; 
 
 import org.hibernate.annotations.CreationTimestamp;
 
